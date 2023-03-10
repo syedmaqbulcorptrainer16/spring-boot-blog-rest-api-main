@@ -1,0 +1,2 @@
+INSERT INTO `myblog`.`categories` (`id`, `description`, `name`) VALUES ('1', 'Science desc', 'Science');
+INSERT INTO `myblog`.`categories` (`id`, `description`, `name`) VALUES ('2', 'Finance desc', 'Finance');
